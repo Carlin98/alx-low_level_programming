@@ -7,4 +7,4 @@ int main(void)
 {
 puts("\"Programming is like buidling a multilinqual puzzle");
 return (0);
-}0
+}
